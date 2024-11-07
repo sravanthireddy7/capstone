@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "user": "admin",
+      "password": "admin@123",
+      "emailid": "admin@gmail.com"
+    },
+    {
+      "id": "a5d9",
+      "user": "sam",
+      "password": "sam",
+      "emailid": "sam@gmail.com"
+    },
+    {
+      "id": "59a1",
+      "user": "Sravanthi Reddy",
+      "password": "sam@123",
+      "emailid": "sravanthi@gmail.com"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Carrot",
+      "image": "carrot.jpg",
+      "category": "Vegtables",
+      "quantity": "1kg",
+      "price": "56",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "2",
+      "name": "Beetroot",
+      "image": "beetroot.jpg",
+      "category": "Vegtables",
+      "price": "60",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "3",
+      "name": "LadyFinger",
+      "image": "lady-finger.jpg",
+      "category": "Vegtables",
+      "price": "66",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "4",
+      "name": "French Beans",
+      "image": "french-beans.jpg",
+      "category": "Vegtables",
+      "price": "180",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "5",
+      "name": "Apple",
+      "image": "apple.jpg",
+      "category": "Fruits",
+      "price": "216",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "6",
+      "name": "WaterMelon",
+      "image": "watermelon.jpg",
+      "category": "Fruits",
+      "price": "163",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "7",
+      "name": "Tomato",
+      "image": "tomato.jpg",
+      "category": "Vegtables",
+      "price": "40",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "8",
+      "name": "Cauliflower",
+      "image": "cauliflower.jpg",
+      "category": "Vegtables",
+      "price": "66",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "9",
+      "name": "Brocli",
+      "image": "brocli.jpg",
+      "category": "Vegtables",
+      "price": "160",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "10",
+      "name": "Berries",
+      "image": "berries.jpg",
+      "category": "Fruits",
+      "price": "302",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "11",
+      "name": "Grapes",
+      "image": "grapes.jpg",
+      "category": "Fruits",
+      "price": "48",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    },
+    {
+      "id": "12",
+      "name": "Mango",
+      "image": "mango.jpg",
+      "category": "Fruits",
+      "price": "200",
+      "description": "Some quick example text to build on the card title and make up the bulk of the cards content."
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "11",
+      "user": "sam",
+      "name": "Grapes",
+      "image": "grapes.jpg",
+      "price": "48",
+      "quantity": 3
+    },
+    {
+      "id": "12",
+      "user": "sam",
+      "name": "Mango",
+      "image": "mango.jpg",
+      "price": "200",
+      "quantity": 3
+    }
+  ],
+  "orderHistory": [
+    {
+      "id": "6722",
+      "username": "sam",
+      "items": 2,
+      "amount": 310,
+      "orderdate": "2024-11-06",
+      "ordertime": "10:43:59"
+    },
+    {
+      "id": "9792",
+      "username": "sam",
+      "items": 1,
+      "amount": 432,
+      "orderdate": "2024-11-06",
+      "ordertime": "15:16:13"
+    },
+    {
+      "id": "4681",
+      "username": "sam",
+      "items": 3,
+      "amount": 900,
+      "orderdate": "2024-11-06",
+      "ordertime": "16:05:18"
+    },
+    {
+      "id": "d191",
+      "username": "sam",
+      "items": 2,
+      "amount": 378,
+      "orderdate": "2024-11-06",
+      "ordertime": "16:35:52"
+    },
+    {
+      "id": "f150",
+      "username": "sam",
+      "items": 6,
+      "amount": 2481,
+      "orderdate": "2024-11-06",
+      "ordertime": "19:39:54"
+    },
+    {
+      "id": "6764",
+      "username": "sam",
+      "items": 2,
+      "amount": 601,
+      "orderdate": "2024-11-06",
+      "ordertime": "21:31:57"
+    },
+    {
+      "id": "5884",
+      "username": "sam",
+      "items": 2,
+      "amount": 1152,
+      "orderdate": "2024-11-07",
+      "ordertime": "18:31:32"
+    }
+  ],
+  "favItems": [
+    {
+      "id": "12",
+      "user": "Sravanthi Reddy",
+      "name": "Mango",
+      "image": "mango.jpg",
+      "price": "200"
+    },
+    {
+      "id": "3",
+      "user": "sam",
+      "name": "LadyFinger",
+      "image": "lady-finger.jpg",
+      "price": "66"
+    },
+    {
+      "id": "2",
+      "user": "sam",
+      "name": "Beetroot",
+      "image": "beetroot.jpg",
+      "price": "60"
+    },
+    {
+      "id": "6",
+      "user": "sam",
+      "name": "WaterMelon",
+      "image": "watermelon.jpg",
+      "price": "163"
+    },
+    {
+      "id": "4",
+      "user": "sam",
+      "name": "French Beans",
+      "image": "french-beans.jpg",
+      "price": "180"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
